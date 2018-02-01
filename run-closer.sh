@@ -1,4 +1,4 @@
 #!/bin/bash
 
 make start
-screen -S btc-testnet-blockcloser -d -m ./closeblock.sh
+screen -S dash-testnet-blockcloser -d -m ./closeblock.sh
